@@ -1,0 +1,3258 @@
+Load data
+Total params is 807165
+--- Epoch 0
+Training
+Loss Binary: 0.29104979
+Loss Multi: 0.37860969
+Loss DDI: 0.02092841
+Loss Total: 0.40945158
+Training Time 467.504
+Validation
+DDI-RATE: 0.0663
+JACCARD: 0.4982
+PRAUC: 0.7462
+PREC: 0.6453
+RECALL: 0.6951
+F1-SCORE: 0.6553
+MEDS: 21.5086
+Validation Time 57.252
+Best Jaccard is found! Jaccard : 0.498193
+Models at Epoch 0 are saved!
+--- Epoch 1
+Training
+Loss Binary: 0.27048775
+Loss Multi: 0.35249496
+Loss DDI: 0.01986953
+Loss Total: 0.36614127
+Training Time 589.135
+Validation
+DDI-RATE: 0.0675
+JACCARD: 0.5120
+PRAUC: 0.7590
+PREC: 0.6654
+RECALL: 0.6972
+F1-SCORE: 0.6679
+MEDS: 20.8131
+Validation Time 57.041
+Best Jaccard is found! Jaccard : 0.511969
+Models at Epoch 1 are saved!
+--- Epoch 2
+Training
+Loss Binary: 0.26353172
+Loss Multi: 0.34274605
+Loss DDI: 0.01972036
+Loss Total: 0.35056404
+Training Time 525.079
+Validation
+DDI-RATE: 0.0671
+JACCARD: 0.5180
+PRAUC: 0.7650
+PREC: 0.6822
+RECALL: 0.6906
+F1-SCORE: 0.6735
+MEDS: 20.0627
+Validation Time 56.726
+Best Jaccard is found! Jaccard : 0.517968
+Models at Epoch 2 are saved!
+--- Epoch 3
+Training
+Loss Binary: 0.26015279
+Loss Multi: 0.33787605
+Loss DDI: 0.01959969
+Loss Total: 0.35213265
+Training Time 474.957
+Validation
+DDI-RATE: 0.0688
+JACCARD: 0.5214
+PRAUC: 0.7683
+PREC: 0.6689
+RECALL: 0.7107
+F1-SCORE: 0.6762
+MEDS: 21.1264
+Validation Time 54.574
+Best Jaccard is found! Jaccard : 0.521409
+Models at Epoch 3 are saved!
+--- Epoch 4
+Training
+Loss Binary: 0.25870033
+Loss Multi: 0.33427262
+Loss DDI: 0.01957575
+Loss Total: 0.34562930
+Training Time 535.484
+Validation
+DDI-RATE: 0.0689
+JACCARD: 0.5231
+PRAUC: 0.7705
+PREC: 0.6872
+RECALL: 0.6946
+F1-SCORE: 0.6778
+MEDS: 20.0777
+Validation Time 56.862
+Best Jaccard is found! Jaccard : 0.523124
+Models at Epoch 4 are saved!
+--- Epoch 5
+Training
+Loss Binary: 0.25669527
+Loss Multi: 0.33224188
+Loss DDI: 0.01953883
+Loss Total: 0.34002661
+Training Time 592.423
+Validation
+DDI-RATE: 0.0688
+JACCARD: 0.5248
+PRAUC: 0.7697
+PREC: 0.6792
+RECALL: 0.7051
+F1-SCORE: 0.6793
+MEDS: 20.7100
+Validation Time 56.909
+Best Jaccard is found! Jaccard : 0.524769
+Models at Epoch 5 are saved!
+--- Epoch 6
+Training
+Loss Binary: 0.25499356
+Loss Multi: 0.33011719
+Loss DDI: 0.01957629
+Loss Total: 0.33932285
+Training Time 600.050
+Validation
+DDI-RATE: 0.0689
+JACCARD: 0.5257
+PRAUC: 0.7721
+PREC: 0.6735
+RECALL: 0.7132
+F1-SCORE: 0.6802
+MEDS: 21.0483
+Validation Time 54.667
+Best Jaccard is found! Jaccard : 0.525730
+Models at Epoch 6 are saved!
+--- Epoch 7
+Training
+Loss Binary: 0.25427065
+Loss Multi: 0.32774914
+Loss DDI: 0.01968211
+Loss Total: 0.34263731
+Training Time 601.297
+Validation
+DDI-RATE: 0.0704
+JACCARD: 0.5298
+PRAUC: 0.7747
+PREC: 0.6821
+RECALL: 0.7116
+F1-SCORE: 0.6837
+MEDS: 20.8289
+Validation Time 56.066
+Best Jaccard is found! Jaccard : 0.529762
+Models at Epoch 7 are saved!
+--- Epoch 8
+Training
+Loss Binary: 0.25305360
+Loss Multi: 0.32591502
+Loss DDI: 0.01965910
+Loss Total: 0.34258250
+Training Time 596.480
+Validation
+DDI-RATE: 0.0690
+JACCARD: 0.5292
+PRAUC: 0.7758
+PREC: 0.6828
+RECALL: 0.7100
+F1-SCORE: 0.6832
+MEDS: 20.7271
+Validation Time 56.107
+--- Epoch 9
+Training
+Loss Binary: 0.25252342
+Loss Multi: 0.32492837
+Loss DDI: 0.01965058
+Loss Total: 0.34575959
+Training Time 586.025
+Validation
+DDI-RATE: 0.0700
+JACCARD: 0.5308
+PRAUC: 0.7774
+PREC: 0.6887
+RECALL: 0.7057
+F1-SCORE: 0.6847
+MEDS: 20.3905
+Validation Time 55.352
+Best Jaccard is found! Jaccard : 0.530776
+Models at Epoch 9 are saved!
+--- Epoch 10
+Training
+Loss Binary: 0.25197254
+Loss Multi: 0.32333842
+Loss DDI: 0.01976619
+Loss Total: 0.33996335
+Training Time 585.783
+Validation
+DDI-RATE: 0.0679
+JACCARD: 0.5307
+PRAUC: 0.7773
+PREC: 0.6829
+RECALL: 0.7115
+F1-SCORE: 0.6846
+MEDS: 20.7205
+Validation Time 55.650
+--- Epoch 11
+Training
+Loss Binary: 0.25090308
+Loss Multi: 0.32133116
+Loss DDI: 0.01982174
+Loss Total: 0.34224673
+Training Time 595.214
+Validation
+DDI-RATE: 0.0692
+JACCARD: 0.5319
+PRAUC: 0.7772
+PREC: 0.6817
+RECALL: 0.7151
+F1-SCORE: 0.6856
+MEDS: 20.8596
+Validation Time 55.375
+Best Jaccard is found! Jaccard : 0.531932
+Models at Epoch 11 are saved!
+--- Epoch 12
+Training
+Loss Binary: 0.25100366
+Loss Multi: 0.31940402
+Loss DDI: 0.01985164
+Loss Total: 0.34657503
+Training Time 585.738
+Validation
+DDI-RATE: 0.0695
+JACCARD: 0.5322
+PRAUC: 0.7789
+PREC: 0.6850
+RECALL: 0.7127
+F1-SCORE: 0.6862
+MEDS: 20.7095
+Validation Time 54.340
+Best Jaccard is found! Jaccard : 0.532214
+Models at Epoch 12 are saved!
+--- Epoch 13
+Training
+Loss Binary: 0.25012678
+Loss Multi: 0.31932879
+Loss DDI: 0.01969560
+Loss Total: 0.33779350
+Training Time 591.772
+Validation
+DDI-RATE: 0.0687
+JACCARD: 0.5324
+PRAUC: 0.7774
+PREC: 0.6838
+RECALL: 0.7137
+F1-SCORE: 0.6862
+MEDS: 20.7350
+Validation Time 55.581
+Best Jaccard is found! Jaccard : 0.532393
+Models at Epoch 13 are saved!
+--- Epoch 14
+Training
+Loss Binary: 0.24944856
+Loss Multi: 0.31855145
+Loss DDI: 0.01981624
+Loss Total: 0.33665874
+Training Time 587.210
+Validation
+DDI-RATE: 0.0680
+JACCARD: 0.5325
+PRAUC: 0.7793
+PREC: 0.6769
+RECALL: 0.7212
+F1-SCORE: 0.6862
+MEDS: 21.2242
+Validation Time 55.261
+Best Jaccard is found! Jaccard : 0.532514
+Models at Epoch 14 are saved!
+--- Epoch 15
+Training
+Loss Binary: 0.24904084
+Loss Multi: 0.31801885
+Loss DDI: 0.01970041
+Loss Total: 0.34013519
+Training Time 594.574
+Validation
+DDI-RATE: 0.0672
+JACCARD: 0.5341
+PRAUC: 0.7783
+PREC: 0.6899
+RECALL: 0.7095
+F1-SCORE: 0.6876
+MEDS: 20.5094
+Validation Time 54.534
+Best Jaccard is found! Jaccard : 0.534109
+Models at Epoch 15 are saved!
+--- Epoch 16
+Training
+Loss Binary: 0.24853948
+Loss Multi: 0.31687802
+Loss DDI: 0.01992802
+Loss Total: 0.34167448
+Training Time 592.544
+Validation
+DDI-RATE: 0.0695
+JACCARD: 0.5357
+PRAUC: 0.7809
+PREC: 0.6849
+RECALL: 0.7174
+F1-SCORE: 0.6890
+MEDS: 20.8240
+Validation Time 53.905
+Best Jaccard is found! Jaccard : 0.535725
+Models at Epoch 16 are saved!
+--- Epoch 17
+Training
+Loss Binary: 0.24761320
+Loss Multi: 0.31671060
+Loss DDI: 0.01974593
+Loss Total: 0.33382988
+Training Time 611.814
+Validation
+DDI-RATE: 0.0701
+JACCARD: 0.5343
+PRAUC: 0.7811
+PREC: 0.6888
+RECALL: 0.7108
+F1-SCORE: 0.6877
+MEDS: 20.5301
+Validation Time 55.000
+--- Epoch 18
+Training
+Loss Binary: 0.24766339
+Loss Multi: 0.31642539
+Loss DDI: 0.01968495
+Loss Total: 0.33213970
+Training Time 590.922
+Validation
+DDI-RATE: 0.0677
+JACCARD: 0.5355
+PRAUC: 0.7815
+PREC: 0.6966
+RECALL: 0.7058
+F1-SCORE: 0.6890
+MEDS: 20.2374
+Validation Time 55.710
+--- Epoch 19
+Training
+Loss Binary: 0.24776007
+Loss Multi: 0.31529358
+Loss DDI: 0.01969232
+Loss Total: 0.33350848
+Training Time 587.930
+Validation
+DDI-RATE: 0.0657
+JACCARD: 0.5360
+PRAUC: 0.7806
+PREC: 0.6885
+RECALL: 0.7135
+F1-SCORE: 0.6890
+MEDS: 20.6832
+Validation Time 56.018
+Best Jaccard is found! Jaccard : 0.536002
+Models at Epoch 19 are saved!
+--- Epoch 20
+Training
+Loss Binary: 0.24714952
+Loss Multi: 0.31504314
+Loss DDI: 0.01966039
+Loss Total: 0.33446219
+Training Time 586.653
+Validation
+DDI-RATE: 0.0655
+JACCARD: 0.5354
+PRAUC: 0.7801
+PREC: 0.6914
+RECALL: 0.7105
+F1-SCORE: 0.6886
+MEDS: 20.5643
+Validation Time 56.753
+--- Epoch 21
+Training
+Loss Binary: 0.24699175
+Loss Multi: 0.31382049
+Loss DDI: 0.01981367
+Loss Total: 0.34073592
+Training Time 606.129
+Validation
+DDI-RATE: 0.0662
+JACCARD: 0.5362
+PRAUC: 0.7835
+PREC: 0.6871
+RECALL: 0.7164
+F1-SCORE: 0.6892
+MEDS: 20.7762
+Validation Time 56.700
+Best Jaccard is found! Jaccard : 0.536185
+Models at Epoch 21 are saved!
+--- Epoch 22
+Training
+Loss Binary: 0.24619489
+Loss Multi: 0.31353303
+Loss DDI: 0.01972045
+Loss Total: 0.33533089
+Training Time 594.741
+Validation
+DDI-RATE: 0.0665
+JACCARD: 0.5359
+PRAUC: 0.7801
+PREC: 0.6914
+RECALL: 0.7106
+F1-SCORE: 0.6888
+MEDS: 20.4989
+Validation Time 56.500
+--- Epoch 23
+Training
+Loss Binary: 0.24582348
+Loss Multi: 0.31334396
+Loss DDI: 0.01976878
+Loss Total: 0.33483003
+Training Time 588.955
+Validation
+DDI-RATE: 0.0674
+JACCARD: 0.5350
+PRAUC: 0.7821
+PREC: 0.6918
+RECALL: 0.7080
+F1-SCORE: 0.6880
+MEDS: 20.3642
+Validation Time 56.524
+--- Epoch 24
+Training
+Loss Binary: 0.24503304
+Loss Multi: 0.31305480
+Loss DDI: 0.01967928
+Loss Total: 0.33322150
+Training Time 618.156
+Validation
+DDI-RATE: 0.0661
+JACCARD: 0.5389
+PRAUC: 0.7845
+PREC: 0.6897
+RECALL: 0.7183
+F1-SCORE: 0.6916
+MEDS: 20.8021
+Validation Time 56.570
+Best Jaccard is found! Jaccard : 0.538935
+Models at Epoch 24 are saved!
+--- Epoch 25
+Training
+Loss Binary: 0.24513599
+Loss Multi: 0.31291174
+Loss DDI: 0.01963263
+Loss Total: 0.33455341
+Training Time 587.542
+Validation
+DDI-RATE: 0.0677
+JACCARD: 0.5379
+PRAUC: 0.7838
+PREC: 0.6872
+RECALL: 0.7196
+F1-SCORE: 0.6908
+MEDS: 20.8978
+Validation Time 58.704
+--- Epoch 26
+Training
+Loss Binary: 0.24483201
+Loss Multi: 0.31264835
+Loss DDI: 0.01955029
+Loss Total: 0.33137735
+Training Time 585.497
+Validation
+DDI-RATE: 0.0669
+JACCARD: 0.5342
+PRAUC: 0.7838
+PREC: 0.7003
+RECALL: 0.7001
+F1-SCORE: 0.6876
+MEDS: 19.9368
+Validation Time 56.646
+--- Epoch 27
+Training
+Loss Binary: 0.24457940
+Loss Multi: 0.31232529
+Loss DDI: 0.01955653
+Loss Total: 0.33098725
+Training Time 586.366
+Validation
+DDI-RATE: 0.0662
+JACCARD: 0.5353
+PRAUC: 0.7832
+PREC: 0.6954
+RECALL: 0.7068
+F1-SCORE: 0.6885
+MEDS: 20.3010
+Validation Time 56.557
+--- Epoch 28
+Training
+Loss Binary: 0.24458342
+Loss Multi: 0.31145234
+Loss DDI: 0.01965714
+Loss Total: 0.33388978
+Training Time 592.619
+Validation
+DDI-RATE: 0.0646
+JACCARD: 0.5359
+PRAUC: 0.7822
+PREC: 0.6942
+RECALL: 0.7083
+F1-SCORE: 0.6890
+MEDS: 20.3379
+Validation Time 62.525
+--- Epoch 29
+Training
+Loss Binary: 0.24414836
+Loss Multi: 0.31014800
+Loss DDI: 0.01970335
+Loss Total: 0.33092286
+Training Time 591.702
+Validation
+DDI-RATE: 0.0674
+JACCARD: 0.5380
+PRAUC: 0.7854
+PREC: 0.6937
+RECALL: 0.7129
+F1-SCORE: 0.6911
+MEDS: 20.4752
+Validation Time 56.828
+--- Epoch 30
+Training
+Loss Binary: 0.24364182
+Loss Multi: 0.31047209
+Loss DDI: 0.01963368
+Loss Total: 0.33311434
+Training Time 587.418
+Validation
+DDI-RATE: 0.0661
+JACCARD: 0.5377
+PRAUC: 0.7847
+PREC: 0.6953
+RECALL: 0.7099
+F1-SCORE: 0.6905
+MEDS: 20.3484
+Validation Time 56.756
+--- Epoch 31
+Training
+Loss Binary: 0.24392774
+Loss Multi: 0.30968442
+Loss DDI: 0.01963276
+Loss Total: 0.33420025
+Training Time 593.294
+Validation
+DDI-RATE: 0.0674
+JACCARD: 0.5364
+PRAUC: 0.7843
+PREC: 0.7018
+RECALL: 0.7017
+F1-SCORE: 0.6895
+MEDS: 19.8921
+Validation Time 56.465
+--- Epoch 32
+Training
+Loss Binary: 0.24369103
+Loss Multi: 0.30964527
+Loss DDI: 0.01961078
+Loss Total: 0.32945003
+Training Time 590.604
+Validation
+DDI-RATE: 0.0656
+JACCARD: 0.5377
+PRAUC: 0.7859
+PREC: 0.6941
+RECALL: 0.7120
+F1-SCORE: 0.6906
+MEDS: 20.4796
+Validation Time 56.287
+--- Epoch 33
+Training
+Loss Binary: 0.24302222
+Loss Multi: 0.30919167
+Loss DDI: 0.01962533
+Loss Total: 0.33175509
+Training Time 588.868
+Validation
+DDI-RATE: 0.0656
+JACCARD: 0.5364
+PRAUC: 0.7848
+PREC: 0.7112
+RECALL: 0.6929
+F1-SCORE: 0.6895
+MEDS: 19.3796
+Validation Time 56.726
+--- Epoch 34
+Training
+Loss Binary: 0.24297105
+Loss Multi: 0.30874092
+Loss DDI: 0.01960589
+Loss Total: 0.33077433
+Training Time 588.536
+Validation
+DDI-RATE: 0.0641
+JACCARD: 0.5387
+PRAUC: 0.7866
+PREC: 0.6990
+RECALL: 0.7080
+F1-SCORE: 0.6914
+MEDS: 20.1882
+Validation Time 56.656
+--- Epoch 35
+Training
+Loss Binary: 0.24229194
+Loss Multi: 0.30887223
+Loss DDI: 0.01958007
+Loss Total: 0.32899324
+Training Time 600.407
+Validation
+DDI-RATE: 0.0664
+JACCARD: 0.5374
+PRAUC: 0.7854
+PREC: 0.6954
+RECALL: 0.7092
+F1-SCORE: 0.6903
+MEDS: 20.2290
+Validation Time 56.829
+--- Epoch 36
+Training
+Loss Binary: 0.24225463
+Loss Multi: 0.30817485
+Loss DDI: 0.01955915
+Loss Total: 0.32878366
+Training Time 598.637
+Validation
+DDI-RATE: 0.0659
+JACCARD: 0.5385
+PRAUC: 0.7870
+PREC: 0.6992
+RECALL: 0.7081
+F1-SCORE: 0.6913
+MEDS: 20.0987
+Validation Time 56.867
+--- Epoch 37
+Training
+Loss Binary: 0.24274556
+Loss Multi: 0.30875340
+Loss DDI: 0.01962196
+Loss Total: 0.32885211
+Training Time 583.305
+Validation
+DDI-RATE: 0.0676
+JACCARD: 0.5384
+PRAUC: 0.7852
+PREC: 0.6962
+RECALL: 0.7110
+F1-SCORE: 0.6913
+MEDS: 20.3879
+Validation Time 56.601
+--- Epoch 38
+Training
+Loss Binary: 0.24211431
+Loss Multi: 0.30836256
+Loss DDI: 0.01952393
+Loss Total: 0.32960061
+Training Time 590.170
+Validation
+DDI-RATE: 0.0631
+JACCARD: 0.5367
+PRAUC: 0.7850
+PREC: 0.7051
+RECALL: 0.6985
+F1-SCORE: 0.6897
+MEDS: 19.7108
+Validation Time 56.764
+--- Epoch 39
+Training
+Loss Binary: 0.24222848
+Loss Multi: 0.30772196
+Loss DDI: 0.01963368
+Loss Total: 0.32877364
+Training Time 573.219
+Validation
+DDI-RATE: 0.0655
+JACCARD: 0.5384
+PRAUC: 0.7863
+PREC: 0.6966
+RECALL: 0.7105
+F1-SCORE: 0.6912
+MEDS: 20.3379
+Validation Time 56.443
+--- Epoch 40
+Training
+Loss Binary: 0.24216687
+Loss Multi: 0.30778509
+Loss DDI: 0.01955433
+Loss Total: 0.33050020
+Training Time 579.112
+Validation
+DDI-RATE: 0.0657
+JACCARD: 0.5383
+PRAUC: 0.7857
+PREC: 0.6947
+RECALL: 0.7129
+F1-SCORE: 0.6911
+MEDS: 20.4480
+Validation Time 56.771
+--- Epoch 41
+Training
+Loss Binary: 0.24193557
+Loss Multi: 0.30685870
+Loss DDI: 0.01956080
+Loss Total: 0.33327009
+Training Time 589.334
+Validation
+DDI-RATE: 0.0643
+JACCARD: 0.5381
+PRAUC: 0.7858
+PREC: 0.7058
+RECALL: 0.7009
+F1-SCORE: 0.6909
+MEDS: 19.7758
+Validation Time 56.691
+--- Epoch 42
+Training
+Loss Binary: 0.24192530
+Loss Multi: 0.30597200
+Loss DDI: 0.01965135
+Loss Total: 0.33222938
+Training Time 594.466
+Validation
+DDI-RATE: 0.0650
+JACCARD: 0.5373
+PRAUC: 0.7843
+PREC: 0.7039
+RECALL: 0.7008
+F1-SCORE: 0.6900
+MEDS: 19.8706
+Validation Time 56.595
+--- Epoch 43
+Training
+Loss Binary: 0.24133675
+Loss Multi: 0.30692897
+Loss DDI: 0.01956206
+Loss Total: 0.32732021
+Training Time 583.569
+Validation
+DDI-RATE: 0.0668
+JACCARD: 0.5393
+PRAUC: 0.7858
+PREC: 0.6996
+RECALL: 0.7087
+F1-SCORE: 0.6920
+MEDS: 20.1606
+Validation Time 56.704
+Best Jaccard is found! Jaccard : 0.539348
+Models at Epoch 43 are saved!
+--- Epoch 44
+Training
+Loss Binary: 0.24137040
+Loss Multi: 0.30625425
+Loss DDI: 0.01948641
+Loss Total: 0.33080229
+Training Time 584.546
+Validation
+DDI-RATE: 0.0646
+JACCARD: 0.5392
+PRAUC: 0.7860
+PREC: 0.6996
+RECALL: 0.7087
+F1-SCORE: 0.6920
+MEDS: 20.1707
+Validation Time 56.759
+--- Epoch 45
+Training
+Loss Binary: 0.24131401
+Loss Multi: 0.30665451
+Loss DDI: 0.01953518
+Loss Total: 0.32672921
+Training Time 596.054
+Validation
+DDI-RATE: 0.0670
+JACCARD: 0.5388
+PRAUC: 0.7861
+PREC: 0.7050
+RECALL: 0.7037
+F1-SCORE: 0.6917
+MEDS: 19.8881
+Validation Time 54.962
+--- Epoch 46
+Training
+Loss Binary: 0.24119641
+Loss Multi: 0.30619162
+Loss DDI: 0.01955944
+Loss Total: 0.32680684
+Training Time 589.473
+Validation
+DDI-RATE: 0.0673
+JACCARD: 0.5362
+PRAUC: 0.7859
+PREC: 0.7032
+RECALL: 0.7013
+F1-SCORE: 0.6893
+MEDS: 19.8864
+Validation Time 56.620
+--- Epoch 47
+Training
+Loss Binary: 0.24075808
+Loss Multi: 0.30649481
+Loss DDI: 0.01952794
+Loss Total: 0.33131913
+Training Time 581.384
+Validation
+DDI-RATE: 0.0657
+JACCARD: 0.5376
+PRAUC: 0.7858
+PREC: 0.6992
+RECALL: 0.7071
+F1-SCORE: 0.6906
+MEDS: 20.0693
+Validation Time 56.658
+--- Epoch 48
+Training
+Loss Binary: 0.24067186
+Loss Multi: 0.30478379
+Loss DDI: 0.01968799
+Loss Total: 0.33209650
+Training Time 639.429
+Validation
+DDI-RATE: 0.0670
+JACCARD: 0.5398
+PRAUC: 0.7870
+PREC: 0.6958
+RECALL: 0.7140
+F1-SCORE: 0.6924
+MEDS: 20.4120
+Validation Time 56.753
+Best Jaccard is found! Jaccard : 0.539837
+Models at Epoch 48 are saved!
+--- Epoch 49
+Training
+Loss Binary: 0.24087658
+Loss Multi: 0.30469291
+Loss DDI: 0.01967457
+Loss Total: 0.33155580
+Training Time 584.338
+Validation
+DDI-RATE: 0.0667
+JACCARD: 0.5399
+PRAUC: 0.7858
+PREC: 0.6931
+RECALL: 0.7167
+F1-SCORE: 0.6924
+MEDS: 20.5932
+Validation Time 56.800
+Best Jaccard is found! Jaccard : 0.539885
+Models at Epoch 49 are saved!
+--- Epoch 50
+Training
+Loss Binary: 0.24015605
+Loss Multi: 0.30526534
+Loss DDI: 0.01956405
+Loss Total: 0.33075265
+Training Time 587.868
+Validation
+DDI-RATE: 0.0664
+JACCARD: 0.5379
+PRAUC: 0.7871
+PREC: 0.7022
+RECALL: 0.7035
+F1-SCORE: 0.6908
+MEDS: 19.9416
+Validation Time 56.584
+--- Epoch 51
+Training
+Loss Binary: 0.24050345
+Loss Multi: 0.30455259
+Loss DDI: 0.01960390
+Loss Total: 0.33041169
+Training Time 584.526
+Validation
+DDI-RATE: 0.0647
+JACCARD: 0.5397
+PRAUC: 0.7859
+PREC: 0.6977
+RECALL: 0.7118
+F1-SCORE: 0.6923
+MEDS: 20.2558
+Validation Time 56.733
+--- Epoch 52
+Training
+Loss Binary: 0.24057423
+Loss Multi: 0.30461237
+Loss DDI: 0.01956574
+Loss Total: 0.32946202
+Training Time 590.485
+Validation
+DDI-RATE: 0.0671
+JACCARD: 0.5383
+PRAUC: 0.7865
+PREC: 0.6937
+RECALL: 0.7136
+F1-SCORE: 0.6912
+MEDS: 20.4892
+Validation Time 56.841
+--- Epoch 53
+Training
+Loss Binary: 0.24012514
+Loss Multi: 0.30470773
+Loss DDI: 0.01950601
+Loss Total: 0.32797192
+Training Time 618.593
+Validation
+DDI-RATE: 0.0656
+JACCARD: 0.5398
+PRAUC: 0.7855
+PREC: 0.7007
+RECALL: 0.7084
+F1-SCORE: 0.6923
+MEDS: 20.0619
+Validation Time 62.414
+--- Epoch 54
+Training
+Loss Binary: 0.23953455
+Loss Multi: 0.30461307
+Loss DDI: 0.01962025
+Loss Total: 0.32977620
+Training Time 615.514
+Validation
+DDI-RATE: 0.0674
+JACCARD: 0.5410
+PRAUC: 0.7875
+PREC: 0.7034
+RECALL: 0.7078
+F1-SCORE: 0.6934
+MEDS: 19.9789
+Validation Time 56.662
+Best Jaccard is found! Jaccard : 0.540987
+Models at Epoch 54 are saved!
+--- Epoch 55
+Training
+Loss Binary: 0.23988147
+Loss Multi: 0.30370382
+Loss DDI: 0.01957122
+Loss Total: 0.32502422
+Training Time 591.375
+Validation
+DDI-RATE: 0.0643
+JACCARD: 0.5399
+PRAUC: 0.7859
+PREC: 0.6979
+RECALL: 0.7121
+F1-SCORE: 0.6923
+MEDS: 20.3602
+Validation Time 56.554
+--- Epoch 56
+Training
+Loss Binary: 0.23992062
+Loss Multi: 0.30337294
+Loss DDI: 0.01966381
+Loss Total: 0.32739018
+Training Time 596.688
+Validation
+DDI-RATE: 0.0642
+JACCARD: 0.5396
+PRAUC: 0.7859
+PREC: 0.7016
+RECALL: 0.7071
+F1-SCORE: 0.6922
+MEDS: 20.0426
+Validation Time 56.678
+--- Epoch 57
+Training
+Loss Binary: 0.23972892
+Loss Multi: 0.30344312
+Loss DDI: 0.01955407
+Loss Total: 0.33074812
+Training Time 591.315
+Validation
+DDI-RATE: 0.0657
+JACCARD: 0.5394
+PRAUC: 0.7860
+PREC: 0.6983
+RECALL: 0.7099
+F1-SCORE: 0.6918
+MEDS: 20.2716
+Validation Time 55.522
+--- Epoch 58
+Training
+Loss Binary: 0.23957253
+Loss Multi: 0.30333001
+Loss DDI: 0.01957471
+Loss Total: 0.32882355
+Training Time 592.718
+Validation
+DDI-RATE: 0.0670
+JACCARD: 0.5403
+PRAUC: 0.7882
+PREC: 0.7019
+RECALL: 0.7079
+F1-SCORE: 0.6929
+MEDS: 20.0193
+Validation Time 58.098
+--- Epoch 59
+Training
+Loss Binary: 0.23955621
+Loss Multi: 0.30281988
+Loss DDI: 0.01972995
+Loss Total: 0.32613107
+Training Time 593.257
+Validation
+DDI-RATE: 0.0662
+JACCARD: 0.5416
+PRAUC: 0.7866
+PREC: 0.6959
+RECALL: 0.7178
+F1-SCORE: 0.6941
+MEDS: 20.5678
+Validation Time 57.051
+Best Jaccard is found! Jaccard : 0.541629
+Models at Epoch 59 are saved!
+--- Epoch 60
+Training
+Loss Binary: 0.23922825
+Loss Multi: 0.30330663
+Loss DDI: 0.01956650
+Loss Total: 0.32618612
+Training Time 621.062
+Validation
+DDI-RATE: 0.0664
+JACCARD: 0.5383
+PRAUC: 0.7853
+PREC: 0.7065
+RECALL: 0.6999
+F1-SCORE: 0.6911
+MEDS: 19.7065
+Validation Time 62.743
+--- Epoch 61
+Training
+Loss Binary: 0.23885655
+Loss Multi: 0.30285100
+Loss DDI: 0.01968501
+Loss Total: 0.32892562
+Training Time 608.404
+Validation
+DDI-RATE: 0.0680
+JACCARD: 0.5412
+PRAUC: 0.7880
+PREC: 0.6978
+RECALL: 0.7136
+F1-SCORE: 0.6936
+MEDS: 20.2984
+Validation Time 56.721
+--- Epoch 62
+Training
+Loss Binary: 0.23931876
+Loss Multi: 0.30301534
+Loss DDI: 0.01956941
+Loss Total: 0.32855675
+Training Time 597.437
+Validation
+DDI-RATE: 0.0653
+JACCARD: 0.5398
+PRAUC: 0.7864
+PREC: 0.6955
+RECALL: 0.7136
+F1-SCORE: 0.6924
+MEDS: 20.4107
+Validation Time 57.109
+--- Epoch 63
+Training
+Loss Binary: 0.23879786
+Loss Multi: 0.30289606
+Loss DDI: 0.01966960
+Loss Total: 0.32596336
+Training Time 588.034
+Validation
+DDI-RATE: 0.0656
+JACCARD: 0.5423
+PRAUC: 0.7872
+PREC: 0.6999
+RECALL: 0.7131
+F1-SCORE: 0.6945
+MEDS: 20.3058
+Validation Time 56.775
+Best Jaccard is found! Jaccard : 0.542344
+Models at Epoch 63 are saved!
+--- Epoch 64
+Training
+Loss Binary: 0.23898547
+Loss Multi: 0.30267950
+Loss DDI: 0.01963152
+Loss Total: 0.32344025
+Training Time 590.903
+Validation
+DDI-RATE: 0.0644
+JACCARD: 0.5414
+PRAUC: 0.7867
+PREC: 0.7032
+RECALL: 0.7080
+F1-SCORE: 0.6936
+MEDS: 20.0057
+Validation Time 57.221
+--- Epoch 65
+Training
+Loss Binary: 0.23882646
+Loss Multi: 0.30157250
+Loss DDI: 0.01966677
+Loss Total: 0.32580514
+Training Time 589.139
+Validation
+DDI-RATE: 0.0657
+JACCARD: 0.5391
+PRAUC: 0.7860
+PREC: 0.7015
+RECALL: 0.7070
+F1-SCORE: 0.6919
+MEDS: 20.0645
+Validation Time 56.884
+--- Epoch 66
+Training
+Loss Binary: 0.23845829
+Loss Multi: 0.30300985
+Loss DDI: 0.01949490
+Loss Total: 0.32247685
+Training Time 595.446
+Validation
+DDI-RATE: 0.0639
+JACCARD: 0.5405
+PRAUC: 0.7878
+PREC: 0.7002
+RECALL: 0.7102
+F1-SCORE: 0.6929
+MEDS: 20.1781
+Validation Time 56.944
+--- Epoch 67
+Training
+Loss Binary: 0.23841583
+Loss Multi: 0.30252879
+Loss DDI: 0.01951226
+Loss Total: 0.32283712
+Training Time 595.959
+Validation
+DDI-RATE: 0.0639
+JACCARD: 0.5398
+PRAUC: 0.7867
+PREC: 0.7040
+RECALL: 0.7054
+F1-SCORE: 0.6923
+MEDS: 19.9105
+Validation Time 56.945
+--- Epoch 68
+Training
+Loss Binary: 0.23846994
+Loss Multi: 0.30193765
+Loss DDI: 0.01958153
+Loss Total: 0.32839324
+Training Time 586.923
+Validation
+DDI-RATE: 0.0656
+JACCARD: 0.5423
+PRAUC: 0.7878
+PREC: 0.6978
+RECALL: 0.7149
+F1-SCORE: 0.6944
+MEDS: 20.3747
+Validation Time 56.644
+--- Epoch 69
+Training
+Loss Binary: 0.23906717
+Loss Multi: 0.30179301
+Loss DDI: 0.01960782
+Loss Total: 0.32197808
+Training Time 584.678
+Validation
+DDI-RATE: 0.0670
+JACCARD: 0.5409
+PRAUC: 0.7879
+PREC: 0.6967
+RECALL: 0.7146
+F1-SCORE: 0.6934
+MEDS: 20.3480
+Validation Time 56.646
+--- Epoch 70
+Training
+Loss Binary: 0.23852157
+Loss Multi: 0.30160094
+Loss DDI: 0.01967947
+Loss Total: 0.32231192
+Training Time 589.236
+Validation
+DDI-RATE: 0.0653
+JACCARD: 0.5393
+PRAUC: 0.7869
+PREC: 0.7081
+RECALL: 0.7000
+F1-SCORE: 0.6920
+MEDS: 19.6297
+Validation Time 56.929
+--- Epoch 71
+Training
+Loss Binary: 0.23833923
+Loss Multi: 0.30152781
+Loss DDI: 0.01962166
+Loss Total: 0.32665999
+Training Time 607.701
+Validation
+DDI-RATE: 0.0643
+JACCARD: 0.5401
+PRAUC: 0.7887
+PREC: 0.7046
+RECALL: 0.7055
+F1-SCORE: 0.6926
+MEDS: 19.9394
+Validation Time 56.879
+--- Epoch 72
+Training
+Loss Binary: 0.23824356
+Loss Multi: 0.30162016
+Loss DDI: 0.01959495
+Loss Total: 0.32570284
+Training Time 589.991
+Validation
+DDI-RATE: 0.0661
+JACCARD: 0.5400
+PRAUC: 0.7871
+PREC: 0.6981
+RECALL: 0.7121
+F1-SCORE: 0.6925
+MEDS: 20.3041
+Validation Time 57.057
+--- Epoch 73
+Training
+Loss Binary: 0.23826912
+Loss Multi: 0.30138429
+Loss DDI: 0.01970133
+Loss Total: 0.32548941
+Training Time 562.442
+Validation
+DDI-RATE: 0.0636
+JACCARD: 0.5407
+PRAUC: 0.7866
+PREC: 0.6945
+RECALL: 0.7164
+F1-SCORE: 0.6932
+MEDS: 20.5165
+Validation Time 56.894
+--- Epoch 74
+Training
+Loss Binary: 0.23832625
+Loss Multi: 0.30113250
+Loss DDI: 0.01957723
+Loss Total: 0.32473010
+Training Time 592.878
+Validation
+DDI-RATE: 0.0656
+JACCARD: 0.5427
+PRAUC: 0.7878
+PREC: 0.6984
+RECALL: 0.7157
+F1-SCORE: 0.6949
+MEDS: 20.3738
+Validation Time 57.029
+Best Jaccard is found! Jaccard : 0.542674
+Models at Epoch 74 are saved!
+--- Epoch 75
+Training
+Loss Binary: 0.23817310
+Loss Multi: 0.30172287
+Loss DDI: 0.01956816
+Loss Total: 0.32587866
+Training Time 603.911
+Validation
+DDI-RATE: 0.0646
+JACCARD: 0.5397
+PRAUC: 0.7861
+PREC: 0.6951
+RECALL: 0.7132
+F1-SCORE: 0.6922
+MEDS: 20.3923
+Validation Time 62.829
+--- Epoch 76
+Training
+Loss Binary: 0.23799009
+Loss Multi: 0.30073798
+Loss DDI: 0.01972913
+Loss Total: 0.32846602
+Training Time 591.111
+Validation
+DDI-RATE: 0.0658
+JACCARD: 0.5396
+PRAUC: 0.7863
+PREC: 0.6998
+RECALL: 0.7088
+F1-SCORE: 0.6922
+MEDS: 20.0939
+Validation Time 56.918
+--- Epoch 77
+Training
+Loss Binary: 0.23811643
+Loss Multi: 0.30031244
+Loss DDI: 0.01969788
+Loss Total: 0.32306314
+Training Time 587.164
+Validation
+DDI-RATE: 0.0651
+JACCARD: 0.5395
+PRAUC: 0.7881
+PREC: 0.7045
+RECALL: 0.7045
+F1-SCORE: 0.6922
+MEDS: 19.8692
+Validation Time 56.812
+--- Epoch 78
+Training
+Loss Binary: 0.23734085
+Loss Multi: 0.30121208
+Loss DDI: 0.01953640
+Loss Total: 0.32511308
+Training Time 586.184
+Validation
+DDI-RATE: 0.0657
+JACCARD: 0.5411
+PRAUC: 0.7866
+PREC: 0.6916
+RECALL: 0.7199
+F1-SCORE: 0.6935
+MEDS: 20.6740
+Validation Time 56.755
+--- Epoch 79
+Training
+Loss Binary: 0.23808378
+Loss Multi: 0.30067799
+Loss DDI: 0.01959706
+Loss Total: 0.32039260
+Training Time 585.295
+Validation
+DDI-RATE: 0.0644
+JACCARD: 0.5403
+PRAUC: 0.7869
+PREC: 0.7060
+RECALL: 0.7046
+F1-SCORE: 0.6930
+MEDS: 19.8192
+Validation Time 56.862
+--- Epoch 80
+Training
+Loss Binary: 0.23840749
+Loss Multi: 0.30033540
+Loss DDI: 0.01965343
+Loss Total: 0.32094539
+Training Time 585.584
+Validation
+DDI-RATE: 0.0631
+JACCARD: 0.5406
+PRAUC: 0.7856
+PREC: 0.7025
+RECALL: 0.7088
+F1-SCORE: 0.6933
+MEDS: 20.0658
+Validation Time 56.977
+--- Epoch 81
+Training
+Loss Binary: 0.23820373
+Loss Multi: 0.30019134
+Loss DDI: 0.01967985
+Loss Total: 0.32433366
+Training Time 625.435
+Validation
+DDI-RATE: 0.0665
+JACCARD: 0.5414
+PRAUC: 0.7866
+PREC: 0.7013
+RECALL: 0.7103
+F1-SCORE: 0.6939
+MEDS: 20.1264
+Validation Time 56.880
+--- Epoch 82
+Training
+Loss Binary: 0.23770738
+Loss Multi: 0.30082991
+Loss DDI: 0.01960769
+Loss Total: 0.32009399
+Training Time 588.679
+Validation
+DDI-RATE: 0.0659
+JACCARD: 0.5413
+PRAUC: 0.7867
+PREC: 0.7014
+RECALL: 0.7104
+F1-SCORE: 0.6938
+MEDS: 20.1413
+Validation Time 56.909
+--- Epoch 83
+Training
+Loss Binary: 0.23738244
+Loss Multi: 0.30060837
+Loss DDI: 0.01955696
+Loss Total: 0.32260003
+Training Time 588.675
+Validation
+DDI-RATE: 0.0647
+JACCARD: 0.5408
+PRAUC: 0.7861
+PREC: 0.6979
+RECALL: 0.7125
+F1-SCORE: 0.6931
+MEDS: 20.2795
+Validation Time 55.019
+--- Epoch 84
+Training
+Loss Binary: 0.23752975
+Loss Multi: 0.29990836
+Loss DDI: 0.01969050
+Loss Total: 0.31653287
+Training Time 599.521
+Validation
+DDI-RATE: 0.0646
+JACCARD: 0.5410
+PRAUC: 0.7860
+PREC: 0.7031
+RECALL: 0.7081
+F1-SCORE: 0.6933
+MEDS: 20.0584
+Validation Time 57.108
+--- Epoch 85
+Training
+Loss Binary: 0.23810152
+Loss Multi: 0.30081912
+Loss DDI: 0.01955254
+Loss Total: 0.32231523
+Training Time 588.941
+Validation
+DDI-RATE: 0.0636
+JACCARD: 0.5416
+PRAUC: 0.7854
+PREC: 0.6974
+RECALL: 0.7139
+F1-SCORE: 0.6938
+MEDS: 20.3624
+Validation Time 56.657
+--- Epoch 86
+Training
+Loss Binary: 0.23739943
+Loss Multi: 0.30083406
+Loss DDI: 0.01943357
+Loss Total: 0.31733910
+Training Time 588.070
+Validation
+DDI-RATE: 0.0636
+JACCARD: 0.5416
+PRAUC: 0.7871
+PREC: 0.7016
+RECALL: 0.7110
+F1-SCORE: 0.6939
+MEDS: 20.1724
+Validation Time 58.718
+--- Epoch 87
+Training
+Loss Binary: 0.23757357
+Loss Multi: 0.30051712
+Loss DDI: 0.01945642
+Loss Total: 0.32123087
+Training Time 587.887
+Validation
+DDI-RATE: 0.0653
+JACCARD: 0.5414
+PRAUC: 0.7855
+PREC: 0.6957
+RECALL: 0.7166
+F1-SCORE: 0.6937
+MEDS: 20.5687
+Validation Time 57.035
+--- Epoch 88
+Training
+Loss Binary: 0.23816969
+Loss Multi: 0.30002947
+Loss DDI: 0.01957726
+Loss Total: 0.32194504
+Training Time 578.336
+Validation
+DDI-RATE: 0.0643
+JACCARD: 0.5418
+PRAUC: 0.7870
+PREC: 0.7011
+RECALL: 0.7111
+F1-SCORE: 0.6940
+MEDS: 20.1220
+Validation Time 57.197
+--- Epoch 89
+Training
+Loss Binary: 0.23732860
+Loss Multi: 0.29948563
+Loss DDI: 0.01957249
+Loss Total: 0.32252535
+Training Time 595.147
+Validation
+DDI-RATE: 0.0648
+JACCARD: 0.5416
+PRAUC: 0.7873
+PREC: 0.6975
+RECALL: 0.7149
+F1-SCORE: 0.6939
+MEDS: 20.3589
+Validation Time 57.047
+--- Epoch 90
+Training
+Loss Binary: 0.23783210
+Loss Multi: 0.29962955
+Loss DDI: 0.01960069
+Loss Total: 0.32068591
+Training Time 615.116
+Validation
+DDI-RATE: 0.0655
+JACCARD: 0.5418
+PRAUC: 0.7884
+PREC: 0.6994
+RECALL: 0.7124
+F1-SCORE: 0.6940
+MEDS: 20.2716
+Validation Time 56.948
+--- Epoch 91
+Training
+Loss Binary: 0.23711879
+Loss Multi: 0.29922000
+Loss DDI: 0.01969421
+Loss Total: 0.32256214
+Training Time 586.043
+Validation
+DDI-RATE: 0.0653
+JACCARD: 0.5416
+PRAUC: 0.7882
+PREC: 0.7036
+RECALL: 0.7079
+F1-SCORE: 0.6939
+MEDS: 19.9491
+Validation Time 56.875
+--- Epoch 92
+Training
+Loss Binary: 0.23750654
+Loss Multi: 0.29902281
+Loss DDI: 0.01967069
+Loss Total: 0.32379921
+Training Time 597.354
+Validation
+DDI-RATE: 0.0664
+JACCARD: 0.5410
+PRAUC: 0.7882
+PREC: 0.7072
+RECALL: 0.7047
+F1-SCORE: 0.6936
+MEDS: 19.8293
+Validation Time 56.849
+--- Epoch 93
+Training
+Loss Binary: 0.23717916
+Loss Multi: 0.29974225
+Loss DDI: 0.01950922
+Loss Total: 0.32240206
+Training Time 586.808
+Validation
+DDI-RATE: 0.0655
+JACCARD: 0.5410
+PRAUC: 0.7877
+PREC: 0.7013
+RECALL: 0.7103
+F1-SCORE: 0.6935
+MEDS: 20.0790
+Validation Time 56.886
+--- Epoch 94
+Training
+Loss Binary: 0.23765868
+Loss Multi: 0.29876025
+Loss DDI: 0.01968095
+Loss Total: 0.32526546
+Training Time 597.214
+Validation
+DDI-RATE: 0.0641
+JACCARD: 0.5397
+PRAUC: 0.7862
+PREC: 0.6948
+RECALL: 0.7147
+F1-SCORE: 0.6923
+MEDS: 20.4778
+Validation Time 56.955
+--- Epoch 95
+Training
+Loss Binary: 0.23749091
+Loss Multi: 0.29914736
+Loss DDI: 0.01961180
+Loss Total: 0.32400985
+Training Time 585.786
+Validation
+DDI-RATE: 0.0638
+JACCARD: 0.5404
+PRAUC: 0.7865
+PREC: 0.7100
+RECALL: 0.7003
+F1-SCORE: 0.6929
+MEDS: 19.5222
+Validation Time 57.220
+--- Epoch 96
+Training
+Loss Binary: 0.23719228
+Loss Multi: 0.29950985
+Loss DDI: 0.01962463
+Loss Total: 0.32174055
+Training Time 590.781
+Validation
+DDI-RATE: 0.0663
+JACCARD: 0.5425
+PRAUC: 0.7874
+PREC: 0.6976
+RECALL: 0.7161
+F1-SCORE: 0.6945
+MEDS: 20.3659
+Validation Time 59.130
+--- Epoch 97
+Training
+Loss Binary: 0.23720516
+Loss Multi: 0.29957976
+Loss DDI: 0.01945187
+Loss Total: 0.31847256
+Training Time 620.134
+Validation
+DDI-RATE: 0.0661
+JACCARD: 0.5434
+PRAUC: 0.7876
+PREC: 0.7018
+RECALL: 0.7130
+F1-SCORE: 0.6953
+MEDS: 20.1821
+Validation Time 57.023
+Best Jaccard is found! Jaccard : 0.543387
+Models at Epoch 97 are saved!
+--- Epoch 98
+Training
+Loss Binary: 0.23711680
+Loss Multi: 0.29919148
+Loss DDI: 0.01956237
+Loss Total: 0.31880500
+Training Time 573.397
+Validation
+DDI-RATE: 0.0650
+JACCARD: 0.5413
+PRAUC: 0.7865
+PREC: 0.6975
+RECALL: 0.7142
+F1-SCORE: 0.6937
+MEDS: 20.2659
+Validation Time 56.998
+--- Epoch 99
+Training
+Loss Binary: 0.23724443
+Loss Multi: 0.29885578
+Loss DDI: 0.01956871
+Loss Total: 0.32012987
+Training Time 587.152
+Validation
+DDI-RATE: 0.0637
+JACCARD: 0.5409
+PRAUC: 0.7878
+PREC: 0.7046
+RECALL: 0.7056
+F1-SCORE: 0.6932
+MEDS: 19.8530
+Validation Time 57.012
+--- Epoch 100
+Training
+Loss Binary: 0.23717333
+Loss Multi: 0.29833013
+Loss DDI: 0.01968946
+Loss Total: 0.32039823
+Training Time 587.029
+Validation
+DDI-RATE: 0.0656
+JACCARD: 0.5401
+PRAUC: 0.7860
+PREC: 0.6911
+RECALL: 0.7190
+F1-SCORE: 0.6926
+MEDS: 20.6187
+Validation Time 57.124
+--- Epoch 101
+Training
+Loss Binary: 0.23706169
+Loss Multi: 0.29821894
+Loss DDI: 0.01962450
+Loss Total: 0.31990986
+Training Time 589.705
+Validation
+DDI-RATE: 0.0638
+JACCARD: 0.5393
+PRAUC: 0.7858
+PREC: 0.6919
+RECALL: 0.7162
+F1-SCORE: 0.6919
+MEDS: 20.5511
+Validation Time 57.067
+--- Epoch 102
+Training
+Loss Binary: 0.23714977
+Loss Multi: 0.29796983
+Loss DDI: 0.01964448
+Loss Total: 0.32430132
+Training Time 585.938
+Validation
+DDI-RATE: 0.0648
+JACCARD: 0.5421
+PRAUC: 0.7878
+PREC: 0.6877
+RECALL: 0.7256
+F1-SCORE: 0.6943
+MEDS: 20.9952
+Validation Time 56.968
+--- Epoch 103
+Training
+Loss Binary: 0.23707450
+Loss Multi: 0.29902959
+Loss DDI: 0.01956697
+Loss Total: 0.31882967
+Training Time 617.296
+Validation
+DDI-RATE: 0.0650
+JACCARD: 0.5400
+PRAUC: 0.7863
+PREC: 0.6974
+RECALL: 0.7118
+F1-SCORE: 0.6925
+MEDS: 20.2255
+Validation Time 55.517
+--- Epoch 104
+Training
+Loss Binary: 0.23669257
+Loss Multi: 0.29929104
+Loss DDI: 0.01954512
+Loss Total: 0.32056662
+Training Time 597.102
+Validation
+DDI-RATE: 0.0634
+JACCARD: 0.5411
+PRAUC: 0.7865
+PREC: 0.6973
+RECALL: 0.7145
+F1-SCORE: 0.6936
+MEDS: 20.3291
+Validation Time 55.001
+--- Epoch 105
+Training
+Loss Binary: 0.23659794
+Loss Multi: 0.29881762
+Loss DDI: 0.01958233
+Loss Total: 0.32121924
+Training Time 587.258
+Validation
+DDI-RATE: 0.0613
+JACCARD: 0.5391
+PRAUC: 0.7856
+PREC: 0.6908
+RECALL: 0.7177
+F1-SCORE: 0.6920
+MEDS: 20.6218
+Validation Time 55.153
+--- Epoch 106
+Training
+Loss Binary: 0.23645643
+Loss Multi: 0.29861833
+Loss DDI: 0.01958877
+Loss Total: 0.32046249
+Training Time 590.714
+Validation
+DDI-RATE: 0.0625
+JACCARD: 0.5421
+PRAUC: 0.7866
+PREC: 0.6967
+RECALL: 0.7155
+F1-SCORE: 0.6942
+MEDS: 20.3686
+Validation Time 54.566
+--- Epoch 107
+Training
+Loss Binary: 0.23630798
+Loss Multi: 0.29884028
+Loss DDI: 0.01957156
+Loss Total: 0.32337818
+Training Time 601.017
+Validation
+DDI-RATE: 0.0654
+JACCARD: 0.5409
+PRAUC: 0.7859
+PREC: 0.6951
+RECALL: 0.7159
+F1-SCORE: 0.6933
+MEDS: 20.4366
+Validation Time 60.525
+--- Epoch 108
+Training
+Loss Binary: 0.23653670
+Loss Multi: 0.29825234
+Loss DDI: 0.01961052
+Loss Total: 0.32071905
+Training Time 619.464
+Validation
+DDI-RATE: 0.0637
+JACCARD: 0.5411
+PRAUC: 0.7875
+PREC: 0.7021
+RECALL: 0.7096
+F1-SCORE: 0.6938
+MEDS: 20.0294
+Validation Time 57.119
+--- Epoch 109
+Training
+Loss Binary: 0.23632303
+Loss Multi: 0.29830569
+Loss DDI: 0.01957430
+Loss Total: 0.31767136
+Training Time 590.177
+Validation
+DDI-RATE: 0.0668
+JACCARD: 0.5427
+PRAUC: 0.7860
+PREC: 0.7048
+RECALL: 0.7095
+F1-SCORE: 0.6950
+MEDS: 19.9776
+Validation Time 57.005
+--- Epoch 110
+Training
+Loss Binary: 0.23652634
+Loss Multi: 0.29871425
+Loss DDI: 0.01957816
+Loss Total: 0.32064339
+Training Time 581.923
+Validation
+DDI-RATE: 0.0642
+JACCARD: 0.5418
+PRAUC: 0.7856
+PREC: 0.6997
+RECALL: 0.7118
+F1-SCORE: 0.6939
+MEDS: 20.1966
+Validation Time 57.095
+--- Epoch 111
+Training
+Loss Binary: 0.23647342
+Loss Multi: 0.29783912
+Loss DDI: 0.01956882
+Loss Total: 0.32005036
+Training Time 580.721
+Validation
+DDI-RATE: 0.0621
+JACCARD: 0.5413
+PRAUC: 0.7866
+PREC: 0.7008
+RECALL: 0.7105
+F1-SCORE: 0.6937
+MEDS: 20.1448
+Validation Time 56.876
+--- Epoch 112
+Training
+Loss Binary: 0.23658573
+Loss Multi: 0.29815637
+Loss DDI: 0.01947695
+Loss Total: 0.32093530
+Training Time 523.690
+Validation
+DDI-RATE: 0.0641
+JACCARD: 0.5431
+PRAUC: 0.7864
+PREC: 0.6942
+RECALL: 0.7207
+F1-SCORE: 0.6951
+MEDS: 20.6959
+Validation Time 54.196
+--- Epoch 113
+Training
+Loss Binary: 0.23635861
+Loss Multi: 0.29763378
+Loss DDI: 0.01964899
+Loss Total: 0.31908869
+Training Time 588.515
+Validation
+DDI-RATE: 0.0634
+JACCARD: 0.5424
+PRAUC: 0.7866
+PREC: 0.6954
+RECALL: 0.7178
+F1-SCORE: 0.6946
+MEDS: 20.4950
+Validation Time 56.280
+--- Epoch 114
+Training
+Loss Binary: 0.23624984
+Loss Multi: 0.29804500
+Loss DDI: 0.01962505
+Loss Total: 0.31934335
+Training Time 590.491
+Validation
+DDI-RATE: 0.0623
+JACCARD: 0.5397
+PRAUC: 0.7860
+PREC: 0.6987
+RECALL: 0.7101
+F1-SCORE: 0.6922
+MEDS: 20.1198
+Validation Time 56.806
+--- Epoch 115
+Training
+Loss Binary: 0.23646402
+Loss Multi: 0.29829301
+Loss DDI: 0.01953293
+Loss Total: 0.31728956
+Training Time 587.439
+Validation
+DDI-RATE: 0.0649
+JACCARD: 0.5424
+PRAUC: 0.7885
+PREC: 0.6947
+RECALL: 0.7192
+F1-SCORE: 0.6947
+MEDS: 20.5415
+Validation Time 56.984
+--- Epoch 116
+Training
+Loss Binary: 0.23629295
+Loss Multi: 0.29821425
+Loss DDI: 0.01954283
+Loss Total: 0.32278126
+Training Time 592.852
+Validation
+DDI-RATE: 0.0653
+JACCARD: 0.5430
+PRAUC: 0.7874
+PREC: 0.6961
+RECALL: 0.7181
+F1-SCORE: 0.6951
+MEDS: 20.4322
+Validation Time 57.065
+--- Epoch 117
+Training
+Loss Binary: 0.23615490
+Loss Multi: 0.29807257
+Loss DDI: 0.01952937
+Loss Total: 0.31998514
+Training Time 587.824
+Validation
+DDI-RATE: 0.0630
+JACCARD: 0.5418
+PRAUC: 0.7874
+PREC: 0.6988
+RECALL: 0.7136
+F1-SCORE: 0.6941
+MEDS: 20.2532
+Validation Time 56.911
+--- Epoch 118
+Training
+Loss Binary: 0.23576410
+Loss Multi: 0.29768623
+Loss DDI: 0.01956535
+Loss Total: 0.31953804
+Training Time 583.691
+Validation
+DDI-RATE: 0.0657
+JACCARD: 0.5428
+PRAUC: 0.7879
+PREC: 0.6998
+RECALL: 0.7144
+F1-SCORE: 0.6950
+MEDS: 20.2343
+Validation Time 57.001
+--- Epoch 119
+Training
+Loss Binary: 0.23675425
+Loss Multi: 0.29769024
+Loss DDI: 0.01964503
+Loss Total: 0.31818632
+Training Time 581.127
+Validation
+DDI-RATE: 0.0643
+JACCARD: 0.5424
+PRAUC: 0.7871
+PREC: 0.6948
+RECALL: 0.7189
+F1-SCORE: 0.6945
+MEDS: 20.5007
+Validation Time 56.963
+--- Epoch 120
+Training
+Loss Binary: 0.23644977
+Loss Multi: 0.29805185
+Loss DDI: 0.01957345
+Loss Total: 0.31641273
+Training Time 586.690
+Validation
+DDI-RATE: 0.0663
+JACCARD: 0.5412
+PRAUC: 0.7873
+PREC: 0.6999
+RECALL: 0.7111
+F1-SCORE: 0.6933
+MEDS: 20.1474
+Validation Time 56.912
+--- Epoch 121
+Training
+Loss Binary: 0.23574624
+Loss Multi: 0.29757503
+Loss DDI: 0.01958186
+Loss Total: 0.32211646
+Training Time 588.603
+Validation
+DDI-RATE: 0.0643
+JACCARD: 0.5403
+PRAUC: 0.7877
+PREC: 0.7003
+RECALL: 0.7098
+F1-SCORE: 0.6928
+MEDS: 20.1027
+Validation Time 57.026
+--- Epoch 122
+Training
+Loss Binary: 0.23624316
+Loss Multi: 0.29762425
+Loss DDI: 0.01964032
+Loss Total: 0.32202341
+Training Time 589.644
+Validation
+DDI-RATE: 0.0632
+JACCARD: 0.5394
+PRAUC: 0.7868
+PREC: 0.7076
+RECALL: 0.7000
+F1-SCORE: 0.6920
+MEDS: 19.5621
+Validation Time 56.995
+--- Epoch 123
+Training
+Loss Binary: 0.23584741
+Loss Multi: 0.29741819
+Loss DDI: 0.01964274
+Loss Total: 0.32047788
+Training Time 585.814
+Validation
+DDI-RATE: 0.0631
+JACCARD: 0.5422
+PRAUC: 0.7873
+PREC: 0.7030
+RECALL: 0.7098
+F1-SCORE: 0.6945
+MEDS: 20.0039
+Validation Time 56.809
+--- Epoch 124
+Training
+Loss Binary: 0.23618739
+Loss Multi: 0.29679377
+Loss DDI: 0.01978867
+Loss Total: 0.32111181
+Training Time 617.758
+Validation
+DDI-RATE: 0.0638
+JACCARD: 0.5419
+PRAUC: 0.7864
+PREC: 0.6981
+RECALL: 0.7145
+F1-SCORE: 0.6943
+MEDS: 20.3317
+Validation Time 57.066
+--- Epoch 125
+Training
+Loss Binary: 0.23588672
+Loss Multi: 0.29724506
+Loss DDI: 0.01959200
+Loss Total: 0.31764399
+Training Time 590.595
+Validation
+DDI-RATE: 0.0635
+JACCARD: 0.5421
+PRAUC: 0.7876
+PREC: 0.6990
+RECALL: 0.7133
+F1-SCORE: 0.6943
+MEDS: 20.2440
+Validation Time 56.701
+--- Epoch 126
+Training
+Loss Binary: 0.23584534
+Loss Multi: 0.29743386
+Loss DDI: 0.01959828
+Loss Total: 0.32317028
+Training Time 590.447
+Validation
+DDI-RATE: 0.0631
+JACCARD: 0.5415
+PRAUC: 0.7876
+PREC: 0.6936
+RECALL: 0.7188
+F1-SCORE: 0.6938
+MEDS: 20.5520
+Validation Time 56.424
+--- Epoch 127
+Training
+Loss Binary: 0.23614091
+Loss Multi: 0.29632136
+Loss DDI: 0.01967724
+Loss Total: 0.32009547
+Training Time 607.676
+Validation
+DDI-RATE: 0.0622
+JACCARD: 0.5403
+PRAUC: 0.7884
+PREC: 0.6912
+RECALL: 0.7193
+F1-SCORE: 0.6929
+MEDS: 20.6419
+Validation Time 54.911
+--- Epoch 128
+Training
+Loss Binary: 0.23608164
+Loss Multi: 0.29675727
+Loss DDI: 0.01963549
+Loss Total: 0.32439513
+Training Time 590.752
+Validation
+DDI-RATE: 0.0630
+JACCARD: 0.5401
+PRAUC: 0.7853
+PREC: 0.6862
+RECALL: 0.7240
+F1-SCORE: 0.6928
+MEDS: 20.9026
+Validation Time 54.860
+--- Epoch 129
+Training
+Loss Binary: 0.23588052
+Loss Multi: 0.29718103
+Loss DDI: 0.01966654
+Loss Total: 0.32220885
+Training Time 597.620
+Validation
+DDI-RATE: 0.0640
+JACCARD: 0.5407
+PRAUC: 0.7876
+PREC: 0.6981
+RECALL: 0.7128
+F1-SCORE: 0.6933
+MEDS: 20.2773
+Validation Time 54.077
+--- Epoch 130
+Training
+Loss Binary: 0.23578619
+Loss Multi: 0.29697822
+Loss DDI: 0.01954193
+Loss Total: 0.32015008
+Training Time 591.142
+Validation
+DDI-RATE: 0.0616
+JACCARD: 0.5410
+PRAUC: 0.7876
+PREC: 0.6936
+RECALL: 0.7173
+F1-SCORE: 0.6933
+MEDS: 20.5612
+Validation Time 54.496
+--- Epoch 131
+Training
+Loss Binary: 0.23589804
+Loss Multi: 0.29712363
+Loss DDI: 0.01967410
+Loss Total: 0.32196458
+Training Time 595.822
+Validation
+DDI-RATE: 0.0642
+JACCARD: 0.5419
+PRAUC: 0.7870
+PREC: 0.6974
+RECALL: 0.7160
+F1-SCORE: 0.6945
+MEDS: 20.3497
+Validation Time 55.271
+--- Epoch 132
+Training
+Loss Binary: 0.23559575
+Loss Multi: 0.29710114
+Loss DDI: 0.01957816
+Loss Total: 0.31926889
+Training Time 587.596
+Validation
+DDI-RATE: 0.0621
+JACCARD: 0.5407
+PRAUC: 0.7892
+PREC: 0.7068
+RECALL: 0.7042
+F1-SCORE: 0.6932
+MEDS: 19.7613
+Validation Time 55.237
+--- Epoch 133
+Training
+Loss Binary: 0.23571583
+Loss Multi: 0.29745299
+Loss DDI: 0.01952743
+Loss Total: 0.32007602
+Training Time 585.569
+Validation
+DDI-RATE: 0.0624
+JACCARD: 0.5437
+PRAUC: 0.7875
+PREC: 0.7021
+RECALL: 0.7136
+F1-SCORE: 0.6958
+MEDS: 20.1716
+Validation Time 54.525
+Best Jaccard is found! Jaccard : 0.543717
+Models at Epoch 133 are saved!
+--- Epoch 134
+Training
+Loss Binary: 0.23577403
+Loss Multi: 0.29657856
+Loss DDI: 0.01970060
+Loss Total: 0.32192127
+Training Time 595.379
+Validation
+DDI-RATE: 0.0630
+JACCARD: 0.5407
+PRAUC: 0.7868
+PREC: 0.6975
+RECALL: 0.7132
+F1-SCORE: 0.6931
+MEDS: 20.2505
+Validation Time 59.552
+--- Epoch 135
+Training
+Loss Binary: 0.23567892
+Loss Multi: 0.29741058
+Loss DDI: 0.01955697
+Loss Total: 0.31744621
+Training Time 616.729
+Validation
+DDI-RATE: 0.0614
+JACCARD: 0.5414
+PRAUC: 0.7879
+PREC: 0.6971
+RECALL: 0.7150
+F1-SCORE: 0.6938
+MEDS: 20.3431
+Validation Time 57.034
+--- Epoch 136
+Training
+Loss Binary: 0.23588626
+Loss Multi: 0.29646682
+Loss DDI: 0.01959943
+Loss Total: 0.31598732
+Training Time 590.112
+Validation
+DDI-RATE: 0.0624
+JACCARD: 0.5414
+PRAUC: 0.7871
+PREC: 0.6993
+RECALL: 0.7128
+F1-SCORE: 0.6938
+MEDS: 20.2378
+Validation Time 56.852
+--- Epoch 137
+Training
+Loss Binary: 0.23606048
+Loss Multi: 0.29629751
+Loss DDI: 0.01966434
+Loss Total: 0.32358621
+Training Time 586.595
+Validation
+DDI-RATE: 0.0634
+JACCARD: 0.5428
+PRAUC: 0.7871
+PREC: 0.7000
+RECALL: 0.7147
+F1-SCORE: 0.6952
+MEDS: 20.2233
+Validation Time 54.441
+--- Epoch 138
+Training
+Loss Binary: 0.23572269
+Loss Multi: 0.29642437
+Loss DDI: 0.01962717
+Loss Total: 0.31811811
+Training Time 590.702
+Validation
+DDI-RATE: 0.0626
+JACCARD: 0.5398
+PRAUC: 0.7875
+PREC: 0.7054
+RECALL: 0.7038
+F1-SCORE: 0.6923
+MEDS: 19.7657
+Validation Time 55.159
+--- Epoch 139
+Training
+Loss Binary: 0.23583805
+Loss Multi: 0.29684426
+Loss DDI: 0.01972296
+Loss Total: 0.32399473
+Training Time 631.217
+Validation
+DDI-RATE: 0.0624
+JACCARD: 0.5404
+PRAUC: 0.7859
+PREC: 0.6946
+RECALL: 0.7153
+F1-SCORE: 0.6928
+MEDS: 20.3857
+Validation Time 62.962
+--- Epoch 140
+Training
+Loss Binary: 0.23569430
+Loss Multi: 0.29688966
+Loss DDI: 0.01963303
+Loss Total: 0.31610540
+Training Time 606.783
+Validation
+DDI-RATE: 0.0642
+JACCARD: 0.5427
+PRAUC: 0.7879
+PREC: 0.7051
+RECALL: 0.7079
+F1-SCORE: 0.6948
+MEDS: 19.8978
+Validation Time 56.915
+--- Epoch 141
+Training
+Loss Binary: 0.23542440
+Loss Multi: 0.29643595
+Loss DDI: 0.01954223
+Loss Total: 0.31770053
+Training Time 596.898
+Validation
+DDI-RATE: 0.0609
+JACCARD: 0.5401
+PRAUC: 0.7863
+PREC: 0.7053
+RECALL: 0.7039
+F1-SCORE: 0.6925
+MEDS: 19.7692
+Validation Time 56.780
+--- Epoch 142
+Training
+Loss Binary: 0.23615188
+Loss Multi: 0.29736367
+Loss DDI: 0.01953948
+Loss Total: 0.31859834
+Training Time 589.925
+Validation
+DDI-RATE: 0.0637
+JACCARD: 0.5405
+PRAUC: 0.7878
+PREC: 0.6985
+RECALL: 0.7118
+F1-SCORE: 0.6929
+MEDS: 20.2391
+Validation Time 58.865
+--- Epoch 143
+Training
+Loss Binary: 0.23529776
+Loss Multi: 0.29709391
+Loss DDI: 0.01957256
+Loss Total: 0.31796464
+Training Time 586.218
+Validation
+DDI-RATE: 0.0646
+JACCARD: 0.5387
+PRAUC: 0.7852
+PREC: 0.6936
+RECALL: 0.7145
+F1-SCORE: 0.6913
+MEDS: 20.4111
+Validation Time 56.640
+--- Epoch 144
+Training
+Loss Binary: 0.23566691
+Loss Multi: 0.29671113
+Loss DDI: 0.01952709
+Loss Total: 0.31672133
+Training Time 588.143
+Validation
+DDI-RATE: 0.0642
+JACCARD: 0.5405
+PRAUC: 0.7862
+PREC: 0.6993
+RECALL: 0.7107
+F1-SCORE: 0.6929
+MEDS: 20.1400
+Validation Time 56.835
+--- Epoch 145
+Training
+Loss Binary: 0.23581327
+Loss Multi: 0.29749653
+Loss DDI: 0.01948617
+Loss Total: 0.31840367
+Training Time 599.256
+Validation
+DDI-RATE: 0.0644
+JACCARD: 0.5400
+PRAUC: 0.7870
+PREC: 0.7023
+RECALL: 0.7072
+F1-SCORE: 0.6924
+MEDS: 19.9811
+Validation Time 56.908
+--- Epoch 146
+Training
+Loss Binary: 0.23560165
+Loss Multi: 0.29640841
+Loss DDI: 0.01957544
+Loss Total: 0.32004093
+Training Time 584.676
+Validation
+DDI-RATE: 0.0621
+JACCARD: 0.5416
+PRAUC: 0.7882
+PREC: 0.7012
+RECALL: 0.7111
+F1-SCORE: 0.6939
+MEDS: 20.1711
+Validation Time 55.011
+--- Epoch 147
+Training
+Loss Binary: 0.23560270
+Loss Multi: 0.29688489
+Loss DDI: 0.01953926
+Loss Total: 0.31976513
+Training Time 616.519
+Validation
+DDI-RATE: 0.0634
+JACCARD: 0.5404
+PRAUC: 0.7847
+PREC: 0.6956
+RECALL: 0.7147
+F1-SCORE: 0.6929
+MEDS: 20.3975
+Validation Time 62.624
+--- Epoch 148
+Training
+Loss Binary: 0.23570343
+Loss Multi: 0.29667496
+Loss DDI: 0.01957223
+Loss Total: 0.31711079
+Training Time 621.814
+Validation
+DDI-RATE: 0.0627
+JACCARD: 0.5426
+PRAUC: 0.7869
+PREC: 0.6936
+RECALL: 0.7205
+F1-SCORE: 0.6948
+MEDS: 20.6411
+Validation Time 56.734
+--- Epoch 149
+Training
+Loss Binary: 0.23545288
+Loss Multi: 0.29713671
+Loss DDI: 0.01958165
+Loss Total: 0.31754366
+Training Time 570.847
+Validation
+DDI-RATE: 0.0616
+JACCARD: 0.5403
+PRAUC: 0.7871
+PREC: 0.6948
+RECALL: 0.7155
+F1-SCORE: 0.6928
+MEDS: 20.4111
+Validation Time 56.646
+--- Epoch 150
+Training
+Loss Binary: 0.23595548
+Loss Multi: 0.29589297
+Loss DDI: 0.01971201
+Loss Total: 0.31906512
+Training Time 611.039
+Validation
+DDI-RATE: 0.0632
+JACCARD: 0.5424
+PRAUC: 0.7881
+PREC: 0.6918
+RECALL: 0.7221
+F1-SCORE: 0.6946
+MEDS: 20.7468
+Validation Time 62.660
+--- Epoch 151
+Training
+Loss Binary: 0.23534932
+Loss Multi: 0.29669523
+Loss DDI: 0.01952181
+Loss Total: 0.31929362
+Training Time 603.111
+Validation
+DDI-RATE: 0.0621
+JACCARD: 0.5435
+PRAUC: 0.7882
+PREC: 0.6954
+RECALL: 0.7198
+F1-SCORE: 0.6954
+MEDS: 20.6125
+Validation Time 62.683
+--- Epoch 152
+Training
+Loss Binary: 0.23552034
+Loss Multi: 0.29579605
+Loss DDI: 0.01973200
+Loss Total: 0.32184217
+Training Time 599.230
+Validation
+DDI-RATE: 0.0626
+JACCARD: 0.5413
+PRAUC: 0.7862
+PREC: 0.6910
+RECALL: 0.7207
+F1-SCORE: 0.6935
+MEDS: 20.7034
+Validation Time 56.822
+--- Epoch 153
+Training
+Loss Binary: 0.23569337
+Loss Multi: 0.29551964
+Loss DDI: 0.01974963
+Loss Total: 0.31796748
+Training Time 585.267
+Validation
+DDI-RATE: 0.0640
+JACCARD: 0.5410
+PRAUC: 0.7875
+PREC: 0.6940
+RECALL: 0.7175
+F1-SCORE: 0.6933
+MEDS: 20.4950
+Validation Time 56.667
+--- Epoch 154
+Training
+Loss Binary: 0.23537499
+Loss Multi: 0.29650263
+Loss DDI: 0.01955061
+Loss Total: 0.31607633
+Training Time 604.931
+Validation
+DDI-RATE: 0.0639
+JACCARD: 0.5418
+PRAUC: 0.7880
+PREC: 0.7007
+RECALL: 0.7118
+F1-SCORE: 0.6941
+MEDS: 20.1523
+Validation Time 56.837
+--- Epoch 155
+Training
+Loss Binary: 0.23490025
+Loss Multi: 0.29665557
+Loss DDI: 0.01953071
+Loss Total: 0.31937380
+Training Time 595.846
+Validation
+DDI-RATE: 0.0628
+JACCARD: 0.5404
+PRAUC: 0.7876
+PREC: 0.6997
+RECALL: 0.7103
+F1-SCORE: 0.6928
+MEDS: 20.1356
+Validation Time 58.344
+--- Epoch 156
+Training
+Loss Binary: 0.23577307
+Loss Multi: 0.29555085
+Loss DDI: 0.01961563
+Loss Total: 0.31987036
+Training Time 640.639
+Validation
+DDI-RATE: 0.0657
+JACCARD: 0.5424
+PRAUC: 0.7879
+PREC: 0.6916
+RECALL: 0.7224
+F1-SCORE: 0.6945
+MEDS: 20.7310
+Validation Time 56.922
+--- Epoch 157
+Training
+Loss Binary: 0.23496213
+Loss Multi: 0.29611674
+Loss DDI: 0.01954612
+Loss Total: 0.31935079
+Training Time 589.631
+Validation
+DDI-RATE: 0.0645
+JACCARD: 0.5420
+PRAUC: 0.7883
+PREC: 0.6972
+RECALL: 0.7160
+F1-SCORE: 0.6943
+MEDS: 20.4006
+Validation Time 56.978
+--- Epoch 158
+Training
+Loss Binary: 0.23539634
+Loss Multi: 0.29608515
+Loss DDI: 0.01960972
+Loss Total: 0.32038249
+Training Time 612.457
+Validation
+DDI-RATE: 0.0634
+JACCARD: 0.5420
+PRAUC: 0.7882
+PREC: 0.7008
+RECALL: 0.7124
+F1-SCORE: 0.6941
+MEDS: 20.1527
+Validation Time 56.975
+--- Epoch 159
+Training
+Loss Binary: 0.23541315
+Loss Multi: 0.29568811
+Loss DDI: 0.01963556
+Loss Total: 0.31772749
+Training Time 589.091
+Validation
+DDI-RATE: 0.0651
+JACCARD: 0.5418
+PRAUC: 0.7883
+PREC: 0.7020
+RECALL: 0.7106
+F1-SCORE: 0.6942
+MEDS: 20.0882
+Validation Time 56.858
+--- Epoch 160
+Training
+Loss Binary: 0.23538296
+Loss Multi: 0.29571858
+Loss DDI: 0.01964603
+Loss Total: 0.31735562
+Training Time 603.492
+Validation
+DDI-RATE: 0.0618
+JACCARD: 0.5395
+PRAUC: 0.7872
+PREC: 0.7025
+RECALL: 0.7058
+F1-SCORE: 0.6919
+MEDS: 19.8947
+Validation Time 62.929
+--- Epoch 161
+Training
+Loss Binary: 0.23569239
+Loss Multi: 0.29562149
+Loss DDI: 0.01965156
+Loss Total: 0.31861366
+Training Time 659.444
+Validation
+DDI-RATE: 0.0632
+JACCARD: 0.5405
+PRAUC: 0.7872
+PREC: 0.6930
+RECALL: 0.7178
+F1-SCORE: 0.6928
+MEDS: 20.5998
+Validation Time 57.151
+--- Epoch 162
+Training
+Loss Binary: 0.23532572
+Loss Multi: 0.29596868
+Loss DDI: 0.01957746
+Loss Total: 0.31997294
+Training Time 590.045
+Validation
+DDI-RATE: 0.0652
+JACCARD: 0.5414
+PRAUC: 0.7888
+PREC: 0.7038
+RECALL: 0.7080
+F1-SCORE: 0.6937
+MEDS: 19.9302
+Validation Time 57.139
+--- Epoch 163
+Training
+Loss Binary: 0.23558321
+Loss Multi: 0.29598386
+Loss DDI: 0.01955286
+Loss Total: 0.31740361
+Training Time 586.801
+Validation
+DDI-RATE: 0.0648
+JACCARD: 0.5415
+PRAUC: 0.7882
+PREC: 0.6977
+RECALL: 0.7147
+F1-SCORE: 0.6938
+MEDS: 20.3607
+Validation Time 57.149
+--- Epoch 164
+Training
+Loss Binary: 0.23583428
+Loss Multi: 0.29642174
+Loss DDI: 0.01952266
+Loss Total: 0.31673137
+Training Time 592.065
+Validation
+DDI-RATE: 0.0634
+JACCARD: 0.5413
+PRAUC: 0.7880
+PREC: 0.6981
+RECALL: 0.7138
+F1-SCORE: 0.6935
+MEDS: 20.3164
+Validation Time 56.422
+--- Epoch 165
+Training
+Loss Binary: 0.23546547
+Loss Multi: 0.29678362
+Loss DDI: 0.01955259
+Loss Total: 0.31691661
+Training Time 587.996
+Validation
+DDI-RATE: 0.0635
+JACCARD: 0.5425
+PRAUC: 0.7882
+PREC: 0.6950
+RECALL: 0.7190
+F1-SCORE: 0.6946
+MEDS: 20.5555
+Validation Time 56.399
+--- Epoch 166
+Training
+Loss Binary: 0.23535364
+Loss Multi: 0.29605933
+Loss DDI: 0.01969716
+Loss Total: 0.31959416
+Training Time 587.607
+Validation
+DDI-RATE: 0.0642
+JACCARD: 0.5413
+PRAUC: 0.7873
+PREC: 0.6991
+RECALL: 0.7119
+F1-SCORE: 0.6935
+MEDS: 20.1698
+Validation Time 56.412
+--- Epoch 167
+Training
+Loss Binary: 0.23550191
+Loss Multi: 0.29577107
+Loss DDI: 0.01967363
+Loss Total: 0.31728137
+Training Time 588.044
+Validation
+DDI-RATE: 0.0625
+JACCARD: 0.5420
+PRAUC: 0.7875
+PREC: 0.6950
+RECALL: 0.7179
+F1-SCORE: 0.6943
+MEDS: 20.5336
+Validation Time 58.330
+--- Epoch 168
+Training
+Loss Binary: 0.23562052
+Loss Multi: 0.29593386
+Loss DDI: 0.01962992
+Loss Total: 0.31620953
+Training Time 597.774
+Validation
+DDI-RATE: 0.0623
+JACCARD: 0.5394
+PRAUC: 0.7861
+PREC: 0.6997
+RECALL: 0.7086
+F1-SCORE: 0.6921
+MEDS: 20.1255
+Validation Time 56.347
+--- Epoch 169
+Training
+Loss Binary: 0.23516277
+Loss Multi: 0.29580704
+Loss DDI: 0.01955730
+Loss Total: 0.31942436
+Training Time 595.159
+Validation
+DDI-RATE: 0.0623
+JACCARD: 0.5433
+PRAUC: 0.7884
+PREC: 0.7023
+RECALL: 0.7126
+F1-SCORE: 0.6953
+MEDS: 20.0856
+Validation Time 57.524
+--- Epoch 170
+Training
+Loss Binary: 0.23532416
+Loss Multi: 0.29640994
+Loss DDI: 0.01956463
+Loss Total: 0.31802103
+Training Time 640.285
+Validation
+DDI-RATE: 0.0628
+JACCARD: 0.5417
+PRAUC: 0.7878
+PREC: 0.6946
+RECALL: 0.7177
+F1-SCORE: 0.6939
+MEDS: 20.5072
+Validation Time 58.517
+--- Epoch 171
+Training
+Loss Binary: 0.23517283
+Loss Multi: 0.29595418
+Loss DDI: 0.01957164
+Loss Total: 0.31758561
+Training Time 589.765
+Validation
+DDI-RATE: 0.0633
+JACCARD: 0.5406
+PRAUC: 0.7875
+PREC: 0.6964
+RECALL: 0.7144
+F1-SCORE: 0.6929
+MEDS: 20.3822
+Validation Time 56.996
+--- Epoch 172
+Training
+Loss Binary: 0.23518992
+Loss Multi: 0.29612374
+Loss DDI: 0.01955887
+Loss Total: 0.31997803
+Training Time 591.044
+Validation
+DDI-RATE: 0.0653
+JACCARD: 0.5402
+PRAUC: 0.7864
+PREC: 0.6976
+RECALL: 0.7124
+F1-SCORE: 0.6928
+MEDS: 20.2558
+Validation Time 57.049
+--- Epoch 173
+Training
+Loss Binary: 0.23544080
+Loss Multi: 0.29532083
+Loss DDI: 0.01962313
+Loss Total: 0.31931066
+Training Time 576.999
+Validation
+DDI-RATE: 0.0626
+JACCARD: 0.5395
+PRAUC: 0.7855
+PREC: 0.6961
+RECALL: 0.7125
+F1-SCORE: 0.6921
+MEDS: 20.2997
+Validation Time 56.996
+--- Epoch 174
+Training
+Loss Binary: 0.23485058
+Loss Multi: 0.29617534
+Loss DDI: 0.01964117
+Loss Total: 0.31683246
+Training Time 614.638
+Validation
+DDI-RATE: 0.0648
+JACCARD: 0.5410
+PRAUC: 0.7872
+PREC: 0.6932
+RECALL: 0.7179
+F1-SCORE: 0.6934
+MEDS: 20.5656
+Validation Time 56.880
+--- Epoch 175
+Training
+Loss Binary: 0.23508488
+Loss Multi: 0.29568942
+Loss DDI: 0.01958309
+Loss Total: 0.31943316
+Training Time 591.565
+Validation
+DDI-RATE: 0.0651
+JACCARD: 0.5410
+PRAUC: 0.7867
+PREC: 0.6944
+RECALL: 0.7166
+F1-SCORE: 0.6934
+MEDS: 20.4976
+Validation Time 57.083
+--- Epoch 176
+Training
+Loss Binary: 0.23538361
+Loss Multi: 0.29593683
+Loss DDI: 0.01951747
+Loss Total: 0.31671854
+Training Time 593.620
+Validation
+DDI-RATE: 0.0653
+JACCARD: 0.5424
+PRAUC: 0.7889
+PREC: 0.6960
+RECALL: 0.7179
+F1-SCORE: 0.6947
+MEDS: 20.4879
+Validation Time 56.898
+--- Epoch 177
+Training
+Loss Binary: 0.23534931
+Loss Multi: 0.29562168
+Loss DDI: 0.01964077
+Loss Total: 0.31784797
+Training Time 589.526
+Validation
+DDI-RATE: 0.0616
+JACCARD: 0.5420
+PRAUC: 0.7882
+PREC: 0.6988
+RECALL: 0.7145
+F1-SCORE: 0.6945
+MEDS: 20.2185
+Validation Time 56.923
+--- Epoch 178
+Training
+Loss Binary: 0.23509227
+Loss Multi: 0.29631074
+Loss DDI: 0.01958469
+Loss Total: 0.31645063
+Training Time 590.425
+Validation
+DDI-RATE: 0.0635
+JACCARD: 0.5421
+PRAUC: 0.7870
+PREC: 0.6917
+RECALL: 0.7214
+F1-SCORE: 0.6944
+MEDS: 20.6709
+Validation Time 56.880
+--- Epoch 179
+Training
+Loss Binary: 0.23527129
+Loss Multi: 0.29574440
+Loss DDI: 0.01969332
+Loss Total: 0.31581594
+Training Time 588.677
+Validation
+DDI-RATE: 0.0625
+JACCARD: 0.5408
+PRAUC: 0.7885
+PREC: 0.6994
+RECALL: 0.7120
+F1-SCORE: 0.6935
+MEDS: 20.0878
+Validation Time 55.051
+--- Epoch 180
+Training
+Loss Binary: 0.23543399
+Loss Multi: 0.29536495
+Loss DDI: 0.01958426
+Loss Total: 0.31744034
+Training Time 593.341
+Validation
+DDI-RATE: 0.0641
+JACCARD: 0.5407
+PRAUC: 0.7876
+PREC: 0.6961
+RECALL: 0.7144
+F1-SCORE: 0.6932
+MEDS: 20.3199
+Validation Time 56.893
+--- Epoch 181
+Training
+Loss Binary: 0.23538275
+Loss Multi: 0.29558199
+Loss DDI: 0.01962999
+Loss Total: 0.31557243
+Training Time 594.529
+Validation
+DDI-RATE: 0.0625
+JACCARD: 0.5421
+PRAUC: 0.7871
+PREC: 0.7015
+RECALL: 0.7118
+F1-SCORE: 0.6945
+MEDS: 20.0970
+Validation Time 56.919
+--- Epoch 182
+Training
+Loss Binary: 0.23541445
+Loss Multi: 0.29571085
+Loss DDI: 0.01958193
+Loss Total: 0.31757317
+Training Time 589.035
+Validation
+DDI-RATE: 0.0651
+JACCARD: 0.5413
+PRAUC: 0.7890
+PREC: 0.6924
+RECALL: 0.7197
+F1-SCORE: 0.6937
+MEDS: 20.6481
+Validation Time 57.020
+--- Epoch 183
+Training
+Loss Binary: 0.23519815
+Loss Multi: 0.29559066
+Loss DDI: 0.01958603
+Loss Total: 0.31634433
+Training Time 586.837
+Validation
+DDI-RATE: 0.0638
+JACCARD: 0.5408
+PRAUC: 0.7879
+PREC: 0.7053
+RECALL: 0.7060
+F1-SCORE: 0.6934
+MEDS: 19.8284
+Validation Time 56.959
+--- Epoch 184
+Training
+Loss Binary: 0.23545399
+Loss Multi: 0.29539042
+Loss DDI: 0.01961622
+Loss Total: 0.31884908
+Training Time 582.384
+Validation
+DDI-RATE: 0.0635
+JACCARD: 0.5405
+PRAUC: 0.7884
+PREC: 0.7012
+RECALL: 0.7093
+F1-SCORE: 0.6931
+MEDS: 20.0733
+Validation Time 56.892
+--- Epoch 185
+Training
+Loss Binary: 0.23563906
+Loss Multi: 0.29514771
+Loss DDI: 0.01961459
+Loss Total: 0.31711616
+Training Time 590.180
+Validation
+DDI-RATE: 0.0614
+JACCARD: 0.5397
+PRAUC: 0.7874
+PREC: 0.7000
+RECALL: 0.7092
+F1-SCORE: 0.6924
+MEDS: 20.0838
+Validation Time 57.142
+--- Epoch 186
+Training
+Loss Binary: 0.23533029
+Loss Multi: 0.29542128
+Loss DDI: 0.01959614
+Loss Total: 0.31598665
+Training Time 590.986
+Validation
+DDI-RATE: 0.0623
+JACCARD: 0.5410
+PRAUC: 0.7867
+PREC: 0.6939
+RECALL: 0.7174
+F1-SCORE: 0.6934
+MEDS: 20.5055
+Validation Time 57.183
+--- Epoch 187
+Training
+Loss Binary: 0.23505173
+Loss Multi: 0.29522205
+Loss DDI: 0.01959860
+Loss Total: 0.31656606
+Training Time 587.443
+Validation
+DDI-RATE: 0.0632
+JACCARD: 0.5398
+PRAUC: 0.7874
+PREC: 0.6933
+RECALL: 0.7157
+F1-SCORE: 0.6923
+MEDS: 20.4160
+Validation Time 56.869
+--- Epoch 188
+Training
+Loss Binary: 0.23547186
+Loss Multi: 0.29526106
+Loss DDI: 0.01958421
+Loss Total: 0.31633621
+Training Time 587.356
+Validation
+DDI-RATE: 0.0648
+JACCARD: 0.5416
+PRAUC: 0.7882
+PREC: 0.6953
+RECALL: 0.7167
+F1-SCORE: 0.6938
+MEDS: 20.4002
+Validation Time 56.856
+--- Epoch 189
+Training
+Loss Binary: 0.23530993
+Loss Multi: 0.29514637
+Loss DDI: 0.01966668
+Loss Total: 0.31713721
+Training Time 594.471
+Validation
+DDI-RATE: 0.0606
+JACCARD: 0.5398
+PRAUC: 0.7877
+PREC: 0.7011
+RECALL: 0.7081
+F1-SCORE: 0.6923
+MEDS: 19.9460
+Validation Time 63.003
+--- Epoch 190
+Training
+Loss Binary: 0.23537804
+Loss Multi: 0.29560019
+Loss DDI: 0.01967570
+Loss Total: 0.31573754
+Training Time 595.318
+Validation
+DDI-RATE: 0.0629
+JACCARD: 0.5398
+PRAUC: 0.7870
+PREC: 0.7015
+RECALL: 0.7078
+F1-SCORE: 0.6926
+MEDS: 19.9947
+Validation Time 57.037
+--- Epoch 191
+Training
+Loss Binary: 0.23534404
+Loss Multi: 0.29513589
+Loss DDI: 0.01964570
+Loss Total: 0.31808320
+Training Time 596.181
+Validation
+DDI-RATE: 0.0626
+JACCARD: 0.5427
+PRAUC: 0.7887
+PREC: 0.6957
+RECALL: 0.7188
+F1-SCORE: 0.6948
+MEDS: 20.5182
+Validation Time 56.901
+--- Epoch 192
+Training
+Loss Binary: 0.23566461
+Loss Multi: 0.29528286
+Loss DDI: 0.01964739
+Loss Total: 0.32045881
+Training Time 589.316
+Validation
+DDI-RATE: 0.0648
+JACCARD: 0.5408
+PRAUC: 0.7894
+PREC: 0.6942
+RECALL: 0.7172
+F1-SCORE: 0.6934
+MEDS: 20.4897
+Validation Time 56.964
+--- Epoch 193
+Training
+Loss Binary: 0.23503084
+Loss Multi: 0.29588372
+Loss DDI: 0.01957279
+Loss Total: 0.31671998
+Training Time 585.997
+Validation
+DDI-RATE: 0.0634
+JACCARD: 0.5420
+PRAUC: 0.7893
+PREC: 0.7000
+RECALL: 0.7132
+F1-SCORE: 0.6941
+MEDS: 20.2418
+Validation Time 56.799
+--- Epoch 194
+Training
+Loss Binary: 0.23527729
+Loss Multi: 0.29638721
+Loss DDI: 0.01944542
+Loss Total: 0.31315962
+Training Time 594.553
+Validation
+DDI-RATE: 0.0639
+JACCARD: 0.5396
+PRAUC: 0.7881
+PREC: 0.6957
+RECALL: 0.7137
+F1-SCORE: 0.6924
+MEDS: 20.2707
+Validation Time 57.444
+--- Epoch 195
+Training
+Loss Binary: 0.23536430
+Loss Multi: 0.29560951
+Loss DDI: 0.01958230
+Loss Total: 0.31557982
+Training Time 592.143
+Validation
+DDI-RATE: 0.0618
+JACCARD: 0.5413
+PRAUC: 0.7884
+PREC: 0.6964
+RECALL: 0.7157
+F1-SCORE: 0.6936
+MEDS: 20.4011
+Validation Time 57.911
+--- Epoch 196
+Training
+Loss Binary: 0.23500580
+Loss Multi: 0.29535858
+Loss DDI: 0.01950231
+Loss Total: 0.31758042
+Training Time 588.389
+Validation
+DDI-RATE: 0.0629
+JACCARD: 0.5401
+PRAUC: 0.7881
+PREC: 0.6911
+RECALL: 0.7192
+F1-SCORE: 0.6927
+MEDS: 20.6292
+Validation Time 58.137
+--- Epoch 197
+Training
+Loss Binary: 0.23523810
+Loss Multi: 0.29477418
+Loss DDI: 0.01979659
+Loss Total: 0.31692767
+Training Time 480.324
+Validation
+DDI-RATE: 0.0659
+JACCARD: 0.5402
+PRAUC: 0.7877
+PREC: 0.6964
+RECALL: 0.7140
+F1-SCORE: 0.6929
+MEDS: 20.3089
+Validation Time 27.890
+--- Epoch 198
+Training
+Loss Binary: 0.23483281
+Loss Multi: 0.29555147
+Loss DDI: 0.01948489
+Loss Total: 0.31499109
+Training Time 538.049
+Validation
+DDI-RATE: 0.0630
+JACCARD: 0.5392
+PRAUC: 0.7873
+PREC: 0.7062
+RECALL: 0.7032
+F1-SCORE: 0.6921
+MEDS: 19.6687
+Validation Time 27.521
+--- Epoch 199
+Training
+Loss Binary: 0.23454149
+Loss Multi: 0.29520832
+Loss DDI: 0.01962491
+Loss Total: 0.31901270
+Training Time 429.742
+Validation
+DDI-RATE: 0.0634
+JACCARD: 0.5416
+PRAUC: 0.7886
+PREC: 0.6973
+RECALL: 0.7152
+F1-SCORE: 0.6937
+MEDS: 20.3339
+Validation Time 26.406
+Best model for testing: epoch 133-th
+END OF TRAINING PROCESS

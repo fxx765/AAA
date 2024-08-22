@@ -1,0 +1,53 @@
+======================
+Model: KindMed
+Phase: training
+Learning Rate: 0.00020
+Epoch: 200
+Training Set Portion: 0.66667
+DIM: 64
+DDI Target: 0.08000
+Kp: 0.05000
+With Meds: 1
+With Fusion: 1
+With APM: 1
+With Augmentation: 1
+With Ontology: 1
+With Semantics: 1
+With DDI: 1
+With Demographics: 1
+Number of Heads in MHA: 4
+# Clinical Relations: 30
+# Medications Relations: 3
+Weight BCE: 0.95000
+Weight DDI Loss: 0.00050
+Weight Decay: 0.00010
+----------------------
+Note: KindMed
+======================
+Best Epoch 0
+Best Epoch 1
+Best Epoch 2
+Best Epoch 3
+Best Epoch 4
+Best Epoch 5
+Best Epoch 6
+Best Epoch 7
+Best Epoch 9
+Best Epoch 11
+Best Epoch 12
+Best Epoch 13
+Best Epoch 14
+Best Epoch 15
+Best Epoch 16
+Best Epoch 19
+Best Epoch 21
+Best Epoch 24
+Best Epoch 43
+Best Epoch 48
+Best Epoch 49
+Best Epoch 54
+Best Epoch 59
+Best Epoch 63
+Best Epoch 74
+Best Epoch 97
+Best Epoch 133
